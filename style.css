@@ -305,6 +305,9 @@ section .title span::after{
 }
 
 .about .button button {
+    width: 200px;
+    height: 55px;
+    font-size: 17px;
     background-color: blue;
     color: white;
     border: 2px solid blue;
@@ -594,12 +597,6 @@ footer .text span a:hover{
     width: 50%;
     height: 60%;
    }
-
-    .about .button button {
-     width: 200px;
-     height: 55px;
-     font-size: 17px;
-    }
 
    .skills .skills-details{
     align-items: center;
