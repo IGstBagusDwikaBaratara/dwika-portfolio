@@ -595,6 +595,12 @@ footer .text span a:hover{
     height: 60%;
    }
 
+    .about .button button {
+     width: 200px;
+     height: 55px;
+     font-size: 17px;
+    }
+
    .skills .skills-details{
     align-items: center;
     justify-content: center;
